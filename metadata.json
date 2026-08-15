@@ -1,0 +1,8 @@
+{
+  "uuid": "no-update-on-shutdown@pndhd1.github.io",
+  "name": "No Update On Shutdown",
+  "description": "Hides the \"Install pending software updates\" checkbox in the Power Off / Restart dialog and keeps it permanently off, so the system can never install updates while shutting down.",
+  "shell-version": ["50"],
+  "version-name": "1.0",
+  "url": "https://github.com/pndhd1/gnome-no-update-on-shutdown"
+}
